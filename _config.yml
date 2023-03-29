@@ -34,15 +34,13 @@ twitter_handle: '@dirkfabisch'
 
 # social icons and sharing options
 social:
-    - icon:	linkedin
-      url: https://www.linkedin.com/in/janiya-r-285610172
 
-  - #icon:	twitter
-    #url:	https://twitter.com/dirkfabisch
-    #desc: Follow me on twitter
-    #share_url: http://twitter.com/share
-    #share_title: ?text=
-    #share_link: "&amp;url="
+  - icon:	twitter
+    url:	https://twitter.com/dirkfabisch
+    desc: Follow me on twitter
+    share_url: http://twitter.com/share
+    share_title: ?text=
+    share_link: "&amp;url="
 
 #  - icon:	facebook
 #    url:	https://facebook.com/???
