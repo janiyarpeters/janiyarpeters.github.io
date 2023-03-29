@@ -4,11 +4,12 @@ title: About
 permalink: /about/
 ---
 
-I'm Janiya, a gradaute student researcher at University of California, Berkeley. I'm also a budding designer familiar with Figma, Mapbox, and Procreate for digital illustration. When I'm not on the clock, I'm writing or making handmade stickers!
+A medium inspired Jekyll blog theme. The basic idea came from the Ghost theme Readium 2.0. I use mediator on my own blog The Base.
 
-Read my latest paper:
+You can download the theme here: https://github.com/dirkfabisch/mediator
 
-Janiya R. Peters and Orissa Rose. 2023. Examining Cashless Payment Services in a “Post” 
-Pandemic Environment. Position Paper at the “Designing Technology and Policy Simultaneously: Towards A Research 
-Agenda and New Practice” Workshop at CHI Conference on Human Factors in Computing Systems (CHI ’23), April 23–
-28, 2023, Hamburg, Germany. 11 pages. http://arxiv.org/abs/2303.12970
+You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at jekyllrb.com
+
+You can find the source code for the Jekyll new theme at: github.com/jglovier/jekyll-new
+
+You can find the source code for Jekyll at github.com/jekyll/jekyll
